@@ -12,9 +12,5 @@ In my free time I take pictures and play guitar.
 
 `Scala`  `Apache`  `Spark`  `Luigi`  `HDFS`  `Apache`  `Flume`  `ElasticSearch`  `PostgreSQL`  `Consul`  `Angular.js`  `Ansible`  `Chef`  `Apache`  `Thrift`
 
-#### Links:
-
-LinkedIn: https://ru.linkedin.com/in/igor-korshunov-a2b879104
-
-GitHub: https://github.com/vazyzy
+#### [LinkedIn](https://ru.linkedin.com/in/igor-korshunov-a2b879104) [GitHub](https://github.com/vazyzy)
 
