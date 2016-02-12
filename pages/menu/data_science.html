@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Coursera: Data Science Specialization"
+date:   2015-12-07 23:17:08
+group: menu
+permalink: /data_science_specialization/
+---
+
+<ul>
+    {% for post in site.posts %}
+    {% case post.group %}
+    {% when 'data_science_specialization' %}
+    <li>
+        <a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }} </a>
+    </li>
+    {% endcase %}
+    {% endfor %}
+</ul>

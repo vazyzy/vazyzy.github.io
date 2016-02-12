@@ -1,0 +1,11 @@
+---
+layout: page
+title:  "Coursera: Lection 1"
+date:   2016-12-07 02:50:00
+group: data_science_specialization
+permalink: /data_science_specialization/lection1
+---
+
+## Лекция 1
+
+### CONTENT
